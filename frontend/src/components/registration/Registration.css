@@ -1,0 +1,14 @@
+.input-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.txt-reg{
+    margin-right: 2rem;
+}
+button{
+    padding: 5px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+
+}
